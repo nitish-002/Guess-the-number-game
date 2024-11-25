@@ -1,6 +1,6 @@
 # This is a Guess the Number Game 
 
-## The Game Looks Like this
+## The Game Looks Like
 
 ![Screenshot 2024-11-22 145036](https://github.com/user-attachments/assets/361049fe-c7f1-4c36-9573-5ed093ad3e52)
 
